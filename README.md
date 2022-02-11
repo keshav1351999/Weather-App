@@ -19,6 +19,5 @@
 ### <a href="https://developer.android.com/training/volley" target="_blank">Volley</a> -Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster.
 ### <a href="https://developer.android.com/guide/topics/ui/layout/cardview" target="_blank">RecyclerView</a> -For creating card based Layout using it.
 ### <a href="https://developer.android.com/training/location/permissions" target="_blank">Location Request</a> -Request user permission for the location ,current location via geocoder-latitude and longitude etc.
-### <a href="https://www.geeksforgeeks.org/java/" target="_blank">Java</a> - Implementing Java as backend to provide functionality to the user interface.
 
 
