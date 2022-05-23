@@ -15,7 +15,7 @@
 
 ## Build Using
 ### <a href="https://www.weatherapi.com/" target="_blank">WeatherAPI</a> - Free API to fetch all the objects of the weather functionality.
-### <a href="https://www.geeksforgeeks.org/json-full-form/" target="_blank">Json</a> -JSON stands for JavaScript Object Notation.It is an independent data exchange format and is the best alternative for XML.
+### <a href="https://www.geeksforgeeks.org/json-full-form/" target="_blank">Json</a> -JSON stands for JavaScript Object Notation.It is an independent data exchange format.
 ### <a href="https://developer.android.com/training/volley" target="_blank">Volley</a> -Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster.
 ### <a href="https://developer.android.com/guide/topics/ui/layout/cardview" target="_blank">RecyclerView</a> -For creating card based Layout using it.
 ### <a href="https://developer.android.com/training/location/permissions" target="_blank">Location Request</a> -Request user permission for the location ,current location via geocoder-latitude and longitude etc.
